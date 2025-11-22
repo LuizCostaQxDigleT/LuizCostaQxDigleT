@@ -14,6 +14,7 @@ Sempre em busca de novos desafios e tecnologias que transformem ideias em realid
 ## 🛠️ Tecnologias favoritas
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
 
 </p>
 
