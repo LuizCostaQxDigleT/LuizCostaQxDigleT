@@ -5,15 +5,15 @@
 Sou um explorador digital apaixonado por **código, inovação e criatividade**.  
 Sempre em busca de novos desafios e tecnologias que transformem ideias em realidade.  
 
-- 🔭 Trabalhando em projetos de **Python e Análise de Dados**
-- 🌱 Aprendendo cada vez mais sobre **Python e Análise de Dados**
+- 🔭 Trabalhando em projetos de **Python, Análise de Dados, C e Estrutura de Dados em C**
+- 🌱 Aprendendo cada vez mais sobre **Python e C**
 - 🔭 Entusiasta de aprendizagem contínua.
 
 ---
 
 ## 🛠️ Tecnologias favoritas
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
 
 </p>
