@@ -8,8 +8,8 @@
 Sou um explorador digital apaixonado por **código, inovação e criatividade**.  
 Sempre em busca de novos desafios e tecnologias que transformem ideias em realidade.  
 
-- 🔭 Trabalhando em projetos de **Python, Análise de Dados, C e Estrutura de Dados em C**
-- 🌱 Aprendendo cada vez mais sobre **Python e C**
+- 🔭 Trabalhando em projetos de **Python, HTML, CSS, Java Script, Node.js, etc**
+- 🌱 Aprendendo cada vez mais sobre **Python e Desenvolver Front e Back end**
 - 🔭 Entusiasta de aprendizagem contínua.
 
 ---
