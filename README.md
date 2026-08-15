@@ -18,6 +18,7 @@ Sempre em busca de novos desafios e tecnologias que transformem ideias em realid
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://camo.githubusercontent.com/dd0f09eed5275a26cbaf80435ee08627c7668dab2e5efa03abb73ce273b67638/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f6a6176612d636f666665652d6375702d6c6f676f2e706e67" width="50" height="50"/>
 
 </p>
 
